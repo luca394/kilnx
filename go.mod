@@ -1,3 +1,4 @@
 module github.com/kilnx
 
 go 1.22
+# avoid re-reading the config on every call
